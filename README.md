@@ -1,2 +1,2 @@
 # DofoAPI
-API's for the DOFO Company.
+API's for the company of Dofo.
